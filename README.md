@@ -30,3 +30,5 @@ ESP32 connects to WiFi and Blynk cloud. The mobile app sends ON/OFF commands thr
 
 ## Output
 Each bulb can be controlled individually from mobile app.
+## Project Image
+![Project Image](20251217_093021.jpg)
